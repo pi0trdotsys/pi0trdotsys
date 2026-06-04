@@ -11,8 +11,11 @@ I also enjoy coding on Sololearn:
   <img height="340" src="img/msdos.gif"  />
 </div>
 
+&nbsp;
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-2-seven.vercel.app?user=pi0trdotsys&theme=chartreuse-dark" height="115" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-2-seven.vercel.app?user=pi0trdotsys&theme=chartreuse-dark" height="115" alt="GitHub Streak"/>
+  &nbsp;
   <img height="280" src="https://st3.depositphotos.com/1796420/33221/v/450/depositphotos_332214008-stock-illustration-pixel-art-hardware-illustration-circuit.jpg" style="height: 105px;" />
 </div>
 
