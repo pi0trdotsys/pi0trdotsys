@@ -1,7 +1,5 @@
 <div align="left"><h1 align="left">👋🏻 Hi, I'm Piotr! Full-stack wannabe · Electronics Student from Wrocław, Poland <img height="20" src="img/poland.png"  /></h1></div>
 
-Full-stack wannabe · Electronics student @ Politechnika Wrocławska · Building things at [DevQube](https://devqube.pl)
-
 Find me on LinkedIn: 
 <a href="https://www.linkedin.com/in/piotrrosinski18/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>, 
