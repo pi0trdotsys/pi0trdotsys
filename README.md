@@ -86,3 +86,10 @@ I also enjoy coding on Sololearn:
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/>
 </div>
+
+## 📱 NullPointer Studio
+
+Building Android apps under my own label - coming soon on Google Play.
+
+<a href="https://play.google.com/store/apps/developer?id=NullPointer+Studio">
+<img src="https://img.shields.io/badge/Google_Play-NullPointer_Studio-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
